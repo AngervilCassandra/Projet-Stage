@@ -9,5 +9,9 @@ package fr.p10.mi.classe;
  * @author auangerv
  */
 public class Stage {
+    private String id_stage;
+    private String titre;
+    private String description;
+    private String niveau;
     
 }
